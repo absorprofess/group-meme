@@ -39,6 +39,7 @@
     | 爽：  | 垃圾学校   |
 ![image](https://user-images.githubusercontent.com/57881573/156129244-e5680754-e573-40f5-b604-744ff56333fc.png)
 33. 新校区买自行车
+
     |   user     |    desc   |
     |--------| ----  |
     |群友:  |买自行车干啥？你又不会经常骑|
