@@ -32,7 +32,7 @@
     ![avatar](https://user-images.githubusercontent.com/38839213/156115683-dcd747b5-6865-48bb-ab7c-451ebb6ef507.gif)
 31. 婊贝
 32. | user   | info   |
-        |--------| ----  |
+    |--------| ----  |
     | 撸妹： | 来自哪个高中 |
     | 爽：  | xx一中   | 
     | 撸妹： | 什么？    |
